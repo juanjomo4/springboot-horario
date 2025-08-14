@@ -1,0 +1,14 @@
+{
+  "properties": [
+    {
+      "name": "config.calendar.open",
+      "type": "java.lang.String",
+      "description": "The calendar open date for the application."
+    },
+    {
+      "name": "config.calendar.close",
+      "type": "java.lang.String",
+      "description": "The calendar close date for the application."
+    }
+  ]
+}
